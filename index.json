@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "evaluate",
+  "versions": [
+    {
+      "commit": "a5db2ad54aaeadf15c7aa1f056bc6f7bbeeb7e5f",
+      "tag": "",
+      "parsed_at": "2026-10-17T01:52:38.818202+00:00"
+    }
+  ]
+}
